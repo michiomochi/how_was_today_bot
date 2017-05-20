@@ -1,0 +1,24 @@
+{
+  "name": "how_was_today_bot",
+  "version": "0.1.0",
+  "description": "a bot to memorize progress of work per date :calendar:",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michiomochi/how_was_today_bot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "slack",
+    "bot framework"
+  ],
+  "author": "michiomochi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michiomochi/how_was_today_bot/issues"
+  },
+  "homepage": "https://github.com/michiomochi/how_was_today_bot#readme",
+  "dependencies": {
+  }
+}
